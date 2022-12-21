@@ -26,6 +26,15 @@ As an individual, I'm passionate for Information Security, consistently work on 
 #### Things I code with</h3>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a1f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="python" src="https://img.shields.io/badge/-Python-5843BE?style=flat-square&logo=php&logoColor=white" /> <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2082FF?style=flat-square&logo=github-actions&logoColor=white" /> <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-58494E?style=flat-square&logo=insomnia&logoColor=white" /> <img alt="git" src="https://img.shields.io/badge/-Git-F05030?style=flat-square&logo=git&logoColor=white" /> <img alt="php" src="https://img.shields.io/badge/-PHP-5849E?style=flat-square&logo=php&logoColor=white" />
 
+## :wave: Mentions
+
+Many thanks from people that referenced this repository here.
+
+<p align="center">
+<!-- MENTIONS-LIST:START -->
+
+<!-- MENTIONS-LIST:END -->
+</p>
 
 #### Quick stats about me
 | Github Stats | Top Languages |
