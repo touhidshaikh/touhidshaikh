@@ -16,10 +16,10 @@ As an individual, I'm passionate for Information Security, consistently work on 
 
 #### 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-
-  
-  
-  
+- [Subdomain Takeover Explained with Practical](https://touhidshaikh.com/blog/2019/01/subdomain-takeover-explained/)
+- [Finger Service Users Enumeration](https://touhidshaikh.com/blog/2018/04/finger-service-users-enumeration/)
+- [Metasploitable3 Installing and Building &lpar;Step by Step&rpar;](https://touhidshaikh.com/blog/2018/04/metasploitable3-building-step-by-step/)
+- [Sudo &lpar;LD_PRELOAD&rpar; &lpar;Linux Privilege Escalation&rpar;](https://touhidshaikh.com/blog/2018/04/sudo-ld_preload-linux-privilege-escalation/)
 <!-- BLOG-POST-LIST:END -->
 
 
