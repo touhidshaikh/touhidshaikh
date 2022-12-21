@@ -9,9 +9,7 @@ As an individual, I'm passionate for Information Security, consistently work on 
 #### 🔗  **Connect with me**
 <p align="left">
 <a href="https://twitter.com/touhidshaikh22" target="blank"><img align="center" src="logos/twitter.gif" alt="touhidshaikh22" height="30" width="40" /></a>
-
 <a href="https://www.linkedin.com/in/touhidshaikh22/" target="blank"><img align="center" src="logos/linkedin.gif" alt="touhidshaikh22" height="30" width="40" /></a>
-
 <a href="https://stackoverflow.com/users/8315173/touhidshaikh" target="blank"><img align="center" src="/logos/stackoverflow.png" alt="4214976" height="30" width="40" /></a>
 
 #### 🔗  **Connect with me**
@@ -19,16 +17,14 @@ As an individual, I'm passionate for Information Security, consistently work on 
 #### 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 
+  
+  
+  
 <!-- BLOG-POST-LIST:END -->
 
 
 #### Things I code with</h3>
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a1f1?style=flat-square&logo=docker&logoColor=white" />
-<img alt="python" src="https://img.shields.io/badge/-Python-5843BE?style=flat-square&logo=php&logoColor=white" />
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2082FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-58494E?style=flat-square&logo=insomnia&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05030?style=flat-square&logo=git&logoColor=white" />
-<img alt="php" src="https://img.shields.io/badge/-PHP-5849E?style=flat-square&logo=php&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a1f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="python" src="https://img.shields.io/badge/-Python-5843BE?style=flat-square&logo=php&logoColor=white" /> <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2082FF?style=flat-square&logo=github-actions&logoColor=white" /> <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-58494E?style=flat-square&logo=insomnia&logoColor=white" /> <img alt="git" src="https://img.shields.io/badge/-Git-F05030?style=flat-square&logo=git&logoColor=white" /> <img alt="php" src="https://img.shields.io/badge/-PHP-5849E?style=flat-square&logo=php&logoColor=white" />
 
 
 #### Quick stats about me
