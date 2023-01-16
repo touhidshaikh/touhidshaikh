@@ -16,10 +16,10 @@ As an individual, I'm passionate for Information Security, consistently work on 
 
 #### 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;De | Un&rpar;serialization Detailed with Demo](https://touhidshaikh.com/blog/2023/01/de-unserialization-detailed-with-demo/)
+- [Local File Inclusion&lpar;LFI&rpar; Explained](https://touhidshaikh.com/blog/2023/01/local-file-inclusionlfi-explained/)
 - [Server Side Request Forgery&lpar;SSRF&rpar; Explained with Examples](https://touhidshaikh.com/blog/2023/01/server-side-request-forgeryssrf-explained-with-examples/)
 - [PHP Type Juggling Explained with Demo](https://touhidshaikh.com/blog/2023/01/php-type-juggling-explained-with-demo/)
-- [Subdomain Takeover Explained with Practical](https://touhidshaikh.com/blog/2019/01/subdomain-takeover-explained/)
-- [Finger Service Users Enumeration](https://touhidshaikh.com/blog/2018/04/finger-service-users-enumeration/)
 <!-- BLOG-POST-LIST:END -->
 
 
