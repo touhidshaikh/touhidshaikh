@@ -16,10 +16,10 @@ As an individual, I'm passionate for Information Security, consistently work on 
 
 #### 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [PSV-2018-0182: NetGear WNR614 WiFi Home Router Unauthenticated Remote Admin Forcibly Logout](https://touhidshaikh.com/blog/2023/02/psv-2018-0182-netgear-wnr614-wifi-home-router-unauthenticated-remote-admin-forcibly-logout/)
 - [&lpar;De | Un&rpar;serialization Detailed with Demo](https://touhidshaikh.com/blog/2023/01/de-unserialization-detailed-with-demo/)
 - [Local File Inclusion&lpar;LFI&rpar; Explained](https://touhidshaikh.com/blog/2023/01/local-file-inclusionlfi-explained/)
 - [Server Side Request Forgery&lpar;SSRF&rpar; Explained with Examples](https://touhidshaikh.com/blog/2023/01/server-side-request-forgeryssrf-explained-with-examples/)
-- [PHP Type Juggling Explained with Demo](https://touhidshaikh.com/blog/2023/01/php-type-juggling-explained-with-demo/)
 <!-- BLOG-POST-LIST:END -->
 
 
