@@ -12,7 +12,6 @@ As an individual, I'm passionate for Information Security, consistently work on 
 <a href="https://www.linkedin.com/in/touhidshaikh22/" target="blank"><img align="center" src="logos/linkedin.gif" alt="touhidshaikh22" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8315173/touhidshaikh" target="blank"><img align="center" src="/logos/stackoverflow.png" alt="4214976" height="30" width="40" /></a>
 
-#### 🔗  **Connect with me**
 
 #### 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
