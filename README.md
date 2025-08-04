@@ -38,10 +38,10 @@ Security Researcher | Exploit Developer | Open Source Contributor
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Suid Binary – .so Injection (Weak File Permissions) (Privilege Escalation)](https://touhidshaikh.com/blog/2024/10/suid-binary-so-injectionweak-file-permissionsprivilege-escalation/)
+- [Suid Binary – .so Injection&lpar;Weak File Permissions&rpar;&lpar;Privilege Escalation&rpar;](https://touhidshaikh.com/blog/2024/10/suid-binary-so-injectionweak-file-permissionsprivilege-escalation/)
 - [Port Forwarding Explained](https://touhidshaikh.com/blog/2023/02/port-forwarding-explained/)
 - [PSV-2018-0182: NetGear WNR614 WiFi Home Router Unauthenticated Remote Admin Forcibly Logout](https://touhidshaikh.com/blog/2023/02/psv-2018-0182-netgear-wnr614-wifi-home-router-unauthenticated-remote-admin-forcibly-logout/)
-- [(De | Un)serialization Detailed with Demo](https://touhidshaikh.com/blog/2023/01/de-unserialization-detailed-with-demo/)
+- [&lpar;De | Un&rpar;serialization Detailed with Demo](https://touhidshaikh.com/blog/2023/01/de-unserialization-detailed-with-demo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
