@@ -373,7 +373,7 @@
                 termOutput.innerHTML += `<div><span class="text-cyan-500">guest@touhidshaikh:~$</span> <span class="text-white">${cmd}</span></div>`;
                 
                 if (cmd === 'help') {
-                    termOutput.innerHTML += `<div class="text-cyan-300 mt-1 mb-3 ml-2">Available commands:<br>- whoami<br>- id<br>- ls<br>- cat [file]<br>- neofetch<br>- history<br>- clear<br>- hostname </div>`;
+                    termOutput.innerHTML += `<div class="text-cyan-300 mt-1 mb-3 ml-2">Available commands:<br>- whoami<br>- id<br>- ls<br>- cat [file]<br>- neofetch<br>- history<br>- clear<br>- hostname <br>- download </div>`;
                 } else if (cmd === 'whoami') {
                     termOutput.innerHTML += `<div class="text-cyan-300 mt-1 mb-3 ml-2">Touhid Shaikh | Exploit Developer, OSCP, OSCE.</div>`;
                 } else if (cmd === 'hostname') {
@@ -386,7 +386,15 @@
                     termOutput.innerHTML += `<div class="text-cyan-300 mt-1 mb-3 ml-2">[+] Python Scripting & Automation<br>[+] Reverse Engineering<br>[+] Network VAPT<br>[+] Burp Suite Extension Development<br>[+] Web Access Control Bypasses</div>`;
                 } else if (cmd === 'cat cve_list.txt') {
                     termOutput.innerHTML += `<div class="text-cyan-300 mt-1 mb-3 ml-2">CVE-2024-43381 (reNgine)<br>CVE-2021-29069 (Netgear)<br>CVE-2018-11714 (TP-Link)<br>[View Exploit-DB for full list]</div>`;
-                } else if (cmd.startsWith('cat ')) {
+                } else if (cmd === 'download' || cmd === 'download resume.pdf') {
+                    termOutput.innerHTML += `<div class="text-cyan-300 mt-1 mb-3 ml-2">[+] Initializing secure file transfer...<br>[+] Downloading Touhid_Shaikh_Resume.pdf</div>`;
+                    const link = document.createElement('a');
+                    link.href = 'resume.pdf';
+                    link.download = 'Touhid_Shaikh_Resume.pdf';
+                    document.body.appendChild(link);
+                    link.click();
+                    document.body.removeChild(link);
+                }else if (cmd.startsWith('cat ')) {
                     const file = cmd.split(' ')[1];
                     termOutput.innerHTML += `<div class="text-red-500 mt-1 mb-3 ml-2">cat: ${file}: Permission denied or file not found</div>`;
                 } else if (cmd === 'neofetch') {
